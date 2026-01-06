@@ -1,0 +1,8 @@
+print.c:26:6:printString	2
+print.c:65:6:print_uint8_base10	5
+print.c:84:6:print_uint8_base2_ndigit	3
+print.c:98:6:print_uint32_base10	4
+print.c:118:6:printInteger	2
+print.c:134:6:printFloat	8
+print.c:176:6:printFloat_CoordValue	2
+print.c:184:6:printFloat_RateValue	2

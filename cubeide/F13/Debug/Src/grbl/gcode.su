@@ -1,0 +1,3 @@
+D:/GITHUB/STM32/grbl32/grbl/gcode.c:42:6:gc_init	8	static
+D:/GITHUB/STM32/grbl32/grbl/gcode.c:56:6:gc_sync_position	0	static
+D:/GITHUB/STM32/grbl32/grbl/gcode.c:66:9:gc_execute_line	136	static

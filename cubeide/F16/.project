@@ -74,14 +74,14 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>grbl</name>
+			<name>Src/grbl</name>
 			<type>2</type>
-			<location>I:/core32/micro/stm32/GRBL32/grbl</location>
+			<locationURI>WORKSPACE_LOC/grbl</locationURI>
 		</link>
 		<link>
-			<name>stm32</name>
+			<name>Src/stm32</name>
 			<type>2</type>
-			<location>I:/core32/micro/stm32/GRBL32/stm32</location>
+			<locationURI>WORKSPACE_LOC/stm32</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>

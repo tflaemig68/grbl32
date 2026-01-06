@@ -1,0 +1,4 @@
+core_cm3.h:1686:26:NVIC_EncodePriority.constprop	1
+tim.c:28:6:MX_TIM1_Init	1
+tim.c:78:6:MX_TIM2_Init	1
+tim.c:101:6:MX_TIM3_Init	1

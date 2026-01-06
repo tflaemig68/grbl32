@@ -1,0 +1,7 @@
+D:/GITHUB/STM32/grbl32/grbl/limits.c:72:6:limits_disable	0	static,ignoring_inline_asm
+D:/GITHUB/STM32/grbl32/grbl/limits.c:34:6:limits_init	0	static
+D:/GITHUB/STM32/grbl32/grbl/limits.c:92:6:limits_enable	0	static
+D:/GITHUB/STM32/grbl32/grbl/limits.c:105:9:limits_get_state	0	static
+D:/GITHUB/STM32/grbl32/grbl/limits.c:162:6:HandleLimitIT	8	static
+D:/GITHUB/STM32/grbl32/grbl/limits.c:242:6:limits_go_home	80	static
+D:/GITHUB/STM32/grbl32/grbl/limits.c:442:6:limits_soft_check	8	static

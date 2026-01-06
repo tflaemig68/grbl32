@@ -1,0 +1,7 @@
+D:/GITHUB/STM32/grbl32/grbl/spindle_control.c:30:6:spindle_init	8	static
+D:/GITHUB/STM32/grbl32/grbl/spindle_control.c:65:9:spindle_get_state	0	static
+D:/GITHUB/STM32/grbl32/grbl/spindle_control.c:130:6:spindle_stop	0	static
+D:/GITHUB/STM32/grbl32/grbl/spindle_control.c:175:8:spindle_set_speed	0	static
+D:/GITHUB/STM32/grbl32/grbl/spindle_control.c:276:22:spindle_compute_pwm_value	32	static
+D:/GITHUB/STM32/grbl32/grbl/spindle_control.c:310:8:spindle_set_state	16	static
+D:/GITHUB/STM32/grbl32/grbl/spindle_control.c:361:8:spindle_sync	16	static

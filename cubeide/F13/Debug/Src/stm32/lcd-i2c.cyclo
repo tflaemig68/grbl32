@@ -1,0 +1,6 @@
+lcd-i2c.c:42:6:I2C_Scan	4
+lcd-i2c.c:66:19:LCD_SendInternal	2
+lcd-i2c.c:90:6:LCD_SendCommand	1
+lcd-i2c.c:95:6:LCD_SendData	1
+lcd-i2c.c:100:6:LCD_Init	1
+lcd-i2c.c:114:6:LCD_SendString	2

@@ -1,0 +1,8 @@
+serial.c:50:9:serial_get_rx_buffer_available	2
+serial.c:60:9:serial_get_rx_buffer_count	2
+serial.c:70:9:serial_get_tx_buffer_count	2
+serial.c:77:6:serial_init	1
+serial.c:100:6:serial_write	1
+serial.c:146:9:serial_read	2
+serial.c:163:6:HandleUartIT	27
+serial.c:285:6:serial_reset_read_buffer	1

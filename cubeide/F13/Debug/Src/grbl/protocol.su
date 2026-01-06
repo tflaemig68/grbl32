@@ -1,0 +1,5 @@
+D:/GITHUB/STM32/grbl32/grbl/protocol.c:186:6:protocol_auto_cycle_start	8	static
+D:/GITHUB/STM32/grbl32/grbl/protocol.c:215:6:protocol_exec_rt_system	24	static
+D:/GITHUB/STM32/grbl32/grbl/protocol.c:205:6:protocol_execute_realtime	40	static
+D:/GITHUB/STM32/grbl32/grbl/protocol.c:38:6:protocol_main_loop	24	static
+D:/GITHUB/STM32/grbl32/grbl/protocol.c:169:6:protocol_buffer_synchronize	8	static

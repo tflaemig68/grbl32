@@ -1,0 +1,11 @@
+stm32utilities.c:106:6:timing_init	1
+stm32utilities.c:113:7:ByteToBin	3
+stm32utilities.c:125:7:Int16ToBin	3
+stm32utilities.c:159:6:uart_sendch	2
+stm32utilities.c:153:6:uart_sendstr	2
+stm32utilities.c:139:6:uart_init	1
+stm32utilities.c:199:6:GPIO_ResetBits	1
+stm32utilities.c:203:6:GPIO_SetBits	1
+stm32utilities.c:171:6:Spindle_Disable	2
+stm32utilities.c:183:6:Spindle_Enable	2
+stm32utilities.c:468:6:spi_limits_init	1
